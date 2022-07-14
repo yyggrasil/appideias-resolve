@@ -1,0 +1,1 @@
+# appideias-resolve
